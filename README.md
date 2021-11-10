@@ -62,3 +62,4 @@ $ pnpm build
 ## LICENSE
 
 MIT License
+Sinhgad
